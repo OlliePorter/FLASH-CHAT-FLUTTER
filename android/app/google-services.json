@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048693531045",
+    "project_id": "flash-chat-f0086",
+    "storage_bucket": "flash-chat-f0086.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048693531045:android:fe40edb527ad27efc7484c",
+        "android_client_info": {
+          "package_name": "co.ollieporter.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048693531045-fib6cg7kosl4al4iqm7lhdm4b4a8h1lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaHHqfbUBfRvlDmSFu-mwY77V6IaJ27GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048693531045-fib6cg7kosl4al4iqm7lhdm4b4a8h1lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
