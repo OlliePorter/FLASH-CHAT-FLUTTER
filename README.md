@@ -1,31 +1,24 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Flash Chat ⚡️
 
-## Our Goal
+<img width="250" alt="Screen Shot 2022-03-31 at 3 43 40 PM" src="https://user-images.githubusercontent.com/13727615/161146137-bdeabcad-2f8f-4113-85b8-012961954e74.png">
 
-The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
+## Summary
 
+FlashChat uses Flutter and Firebase to build a Whatsapp style messaging application.
 
-## What you will create
+## What is does
 
-We’re going to build a modern messaging app where users can sign up and log in to chat.
+- Uses Firebase authentication to register and sign in users.
+- Uses Streams to update messages state.
+- Uses ListViews to build scrolling views.
+- Uses Firebase Cloud Firestore to store and retrieve data on the fly.
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+## How to run
+Install dependencies with: `flutter packages get`
 
-## What you will learn
+Run project with: `flutter run`
 
-- How to incorporate Firebase into your Flutter projects.
-- How to use Firebase authentication to register and sign in users.
-- How to create beautiful animations using the Flutter Hero widget.
-- How to create custom aniamtions using Flutter's animation controller. 
-- Learn all about mixins and how they differ from superclasses.
-- Learn about Streams and how they work.
-- Learn to use ListViews to build scrolling views.
-- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
-
-
+------
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
